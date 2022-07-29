@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930029968976",
+    "project_id": "aindriyadbrealtime",
+    "storage_bucket": "aindriyadbrealtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930029968976:android:cedfb102b6c8881805bb55",
+        "android_client_info": {
+          "package_name": "com.example.realtime_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930029968976-qpm5ks25pvm0s0gb4ofoaf5ba80vi5pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwfxAVjieplvRXPY7MYQubnKajezsGDWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930029968976-qpm5ks25pvm0s0gb4ofoaf5ba80vi5pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
